@@ -86,7 +86,7 @@ Want to improve this repo? Feel free to **fork** and contribute! 🛠️
 
 ## 💡 Connect with Me
 📬 **GitHub**: [YadurajManu](https://github.com/YadurajManu)  
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email**: [yadurajsingham@gmail.com](mailto:your-email@example.com)  
 🌟 **If you find this helpful, don’t forget to star the repo!** ⭐
 
 ![Thanks GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
